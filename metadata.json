@@ -1,0 +1,6 @@
+{
+  "name": "Neon Space Defender",
+  "description": "Jogo arcade espacial em Canvas 2D com gráficos neon, física fluida, ondas progressivas de inimigos, chefes e mecânicas de tiro responsivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
